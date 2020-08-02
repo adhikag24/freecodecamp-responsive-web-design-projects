@@ -20,5 +20,16 @@
     height: auto;
 }
 #article-title{
-    margin: 30px;
+    margin: 50px;
+}
+#timeline{
+    display: block;
+}
+ul{
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    text-align: left;
 }
