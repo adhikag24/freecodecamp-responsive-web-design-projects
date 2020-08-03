@@ -16,15 +16,14 @@
     margin: 15px 0 5px 0;
 }
 #image{
-    width: 100%;
+    max-width: 100%;
     height: auto;
+    display: block;
 }
 #article-title{
     margin: 50px;
 }
-#timeline{
-    display: block;
-}
+
 ul{
     max-width: 70%;
     margin-left: auto;
