@@ -4,9 +4,31 @@ li {
     left: 25%;
 }
 h4{
-    padding-top: 20px;
+    padding-top: 4em;
     text-align: center;
 }
 #form-wrapper{
     text-align: center;
+}
+.img{
+    max-width: 100%;
+    height: auto;
+}
+.container{
+    padding-top: 8%;
+    padding-left: 13%;
+}
+.desc{
+    position: relative;
+    right: 70%;
+    width: 150%;
+}
+.video{
+    padding-top: 8%;
+    display: block;
+    text-align: center;
+}
+.offers{
+    padding-top: 8%;
+    border: black;
 }
