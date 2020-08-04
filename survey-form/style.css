@@ -1,0 +1,20 @@
+#form-wrapper{
+    width: 700px;
+    background-color:lightblue;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.form-group{
+    display: block;
+    padding-top: 10px;
+}
+.form-control{
+    display: inline-block;
+    width: 600px;
+}
+#dropdown{
+    position: relative;
+    left: 20px;
+    top: 20px;
+    display: inline-block;
+}
