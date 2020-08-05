@@ -20,8 +20,8 @@ h4{
 }
 .desc{
     position: relative;
-    right: 70%;
-    width: 150%;
+    right: 25vw;
+    width: 60vw;
 }
 .video{
     padding-top: 8%;
@@ -31,4 +31,33 @@ h4{
 .offers{
     padding-top: 8%;
     border: black;
+}
+.responsive-img{
+    display: inline-block;
+}
+.box{
+    background-color: inherit;
+    width: 300px;
+    border: 0.1vw solid black;
+    padding: 0px;
+    margin: 50px;  
+    word-wrap: break-word; 
+    text-align: center;
+    box-sizing: border-box;
+}
+.offers-title{
+    background-color: lightseagreen;  
+    width: 100%; 
+    padding: 15px 0;
+}
+.offers-content{
+    padding: 15px 0;
+}
+.test{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    margin: 15px 0;
+    width: 50%;
 }
