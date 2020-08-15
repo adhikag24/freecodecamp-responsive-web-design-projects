@@ -1,0 +1,33 @@
+#welcome-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: lightcyan;
+}
+
+#projects{
+    padding-top: 20px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+#projects-header{
+    padding: 50px;
+}
+
+.projects-item{
+    padding: 10px;
+}
+
+#footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: lightcyan;
+}
